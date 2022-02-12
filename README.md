@@ -1,0 +1,1 @@
+# hackerrank-information-gathered
