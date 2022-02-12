@@ -1,0 +1,13 @@
+;; Server: 202.44.204.63:53
+;; Size: 143
+;; Unix time: 1644158925
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 53819
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+wordlist: open goaltdns: no such file or directory. IN A
+
+;; AUTHORITY SECTION:
+. 10800 IN SOA a.root-servers.net. nstld.verisign-grs.com. 2022020600 1800 900 604800 86400
+
+
